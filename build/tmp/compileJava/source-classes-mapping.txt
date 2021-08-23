@@ -1,2 +1,4 @@
+br/com/jogoDeXadrez/boardGame/Position.java
+ br.com.jogoDeXadrez.boardGame.Position
 br/com/jogoDeXadrez/application/Program.java
  br.com.jogoDeXadrez.application.Program
