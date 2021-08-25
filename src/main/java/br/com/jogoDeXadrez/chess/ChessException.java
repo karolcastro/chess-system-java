@@ -1,6 +1,8 @@
 package br.com.jogoDeXadrez.chess;
 
-public class ChessException extends RuntimeException {
+import br.com.jogoDeXadrez.boardGame.BoardException;
+
+public class ChessException extends BoardException {
 
     public ChessException(String msg) {
         super(msg);
