@@ -1,13 +1,10 @@
 package br.com.jogoDeXadrez.application;
 
-import br.com.jogoDeXadrez.boardGame.Board;
-import br.com.jogoDeXadrez.boardGame.Position;
 import br.com.jogoDeXadrez.chess.ChessException;
 import br.com.jogoDeXadrez.chess.ChessMatch;
 import br.com.jogoDeXadrez.chess.ChessPiece;
 import br.com.jogoDeXadrez.chess.ChessPosition;
 
-import javax.swing.*;
 import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.List;
@@ -41,14 +38,13 @@ public class Program {
                     captured.add(capturePiece);
                 }
 
-                } catch(ChessException e){
-                    System.out.println(e.getMessage());
-                    sc.nextLine();
-                }
-            catch(InputMismatchException e){
-                    System.out.println(e.getMessage());
-                    sc.nextLine();
-                }
+            } catch (ChessException e) {
+                System.out.println(e.getMessage());
+                sc.nextLine();
+            } catch (InputMismatchException e) {
+                System.out.println(e.getMessage());
+                sc.nextLine();
             }
         }
     }
+}
