@@ -3,7 +3,7 @@ package br.com.jogoDeXadrez.chess;
 import br.com.jogoDeXadrez.boardGame.Board;
 import br.com.jogoDeXadrez.boardGame.Piece;
 
-public class ChessPiece extends Piece {
+public abstract class ChessPiece extends Piece {
     private Color color;
 
     public ChessPiece(Board board, Color color) {
