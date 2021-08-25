@@ -10,17 +10,17 @@ br/com/jogoDeXadrez/chess/ChessPosition.java
  br.com.jogoDeXadrez.chess.ChessPosition
 br/com/jogoDeXadrez/boardGame/Piece.java
  br.com.jogoDeXadrez.boardGame.Piece
-br/com/jogoDeXadrez/chess/ChessMatch.java
- br.com.jogoDeXadrez.chess.ChessMatch
+br/com/jogoDeXadrez/application/UI.java
+ br.com.jogoDeXadrez.application.UI
 br/com/jogoDeXadrez/pieces/Rook.java
  br.com.jogoDeXadrez.pieces.Rook
 br/com/jogoDeXadrez/chess/Color.java
  br.com.jogoDeXadrez.chess.Color
-br/com/jogoDeXadrez/pieces/King.java
- br.com.jogoDeXadrez.pieces.King
-br/com/jogoDeXadrez/boardGame/BoardException.java
- br.com.jogoDeXadrez.boardGame.BoardException
-br/com/jogoDeXadrez/application/UI.java
- br.com.jogoDeXadrez.application.UI
 br/com/jogoDeXadrez/chess/ChessException.java
  br.com.jogoDeXadrez.chess.ChessException
+br/com/jogoDeXadrez/boardGame/BoardException.java
+ br.com.jogoDeXadrez.boardGame.BoardException
+br/com/jogoDeXadrez/pieces/King.java
+ br.com.jogoDeXadrez.pieces.King
+br/com/jogoDeXadrez/chess/ChessMatch.java
+ br.com.jogoDeXadrez.chess.ChessMatch
