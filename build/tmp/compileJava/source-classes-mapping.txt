@@ -1,15 +1,13 @@
 br/com/jogoDeXadrez/chess/ChessException.java
  br.com.jogoDeXadrez.chess.ChessException
-br/com/jogoDeXadrez/boardGame/Position.java
- br.com.jogoDeXadrez.boardGame.Position
-br/com/jogoDeXadrez/boardGame/BoardException.java
- br.com.jogoDeXadrez.boardGame.BoardException
 br/com/jogoDeXadrez/chess/Color.java
  br.com.jogoDeXadrez.chess.Color
-br/com/jogoDeXadrez/chess/ChessPosition.java
- br.com.jogoDeXadrez.chess.ChessPosition
+br/com/jogoDeXadrez/boardGame/BoardException.java
+ br.com.jogoDeXadrez.boardGame.BoardException
 br/com/jogoDeXadrez/chess/ChessPiece.java
  br.com.jogoDeXadrez.chess.ChessPiece
+br/com/jogoDeXadrez/boardGame/Position.java
+ br.com.jogoDeXadrez.boardGame.Position
 br/com/jogoDeXadrez/boardGame/Board.java
  br.com.jogoDeXadrez.boardGame.Board
 br/com/jogoDeXadrez/pieces/Rook.java
@@ -18,6 +16,8 @@ br/com/jogoDeXadrez/application/Program.java
  br.com.jogoDeXadrez.application.Program
 br/com/jogoDeXadrez/pieces/King.java
  br.com.jogoDeXadrez.pieces.King
+br/com/jogoDeXadrez/chess/ChessPosition.java
+ br.com.jogoDeXadrez.chess.ChessPosition
 br/com/jogoDeXadrez/application/UI.java
  br.com.jogoDeXadrez.application.UI
 br/com/jogoDeXadrez/boardGame/Piece.java
