@@ -12,23 +12,23 @@ br/com/jogoDeXadrez/chess/ChessPosition.java
  br.com.jogoDeXadrez.chess.ChessPosition
 br/com/jogoDeXadrez/boardGame/Piece.java
  br.com.jogoDeXadrez.boardGame.Piece
-br/com/jogoDeXadrez/application/UI.java
- br.com.jogoDeXadrez.application.UI
+br/com/jogoDeXadrez/pieces/Queen.java
+ br.com.jogoDeXadrez.pieces.Queen
 br/com/jogoDeXadrez/pieces/Rook.java
  br.com.jogoDeXadrez.pieces.Rook
 br/com/jogoDeXadrez/chess/Color.java
  br.com.jogoDeXadrez.chess.Color
-br/com/jogoDeXadrez/pieces/King.java
- br.com.jogoDeXadrez.pieces.King
+br/com/jogoDeXadrez/pieces/Pawn.java
+ br.com.jogoDeXadrez.pieces.Pawn
 br/com/jogoDeXadrez/pieces/Bishop.java
  br.com.jogoDeXadrez.pieces.Bishop
 br/com/jogoDeXadrez/pieces/Knight.java
  br.com.jogoDeXadrez.pieces.Knight
-br/com/jogoDeXadrez/pieces/Queen.java
- br.com.jogoDeXadrez.pieces.Queen
 br/com/jogoDeXadrez/application/Program.java
  br.com.jogoDeXadrez.application.Program
-br/com/jogoDeXadrez/pieces/Pawn.java
- br.com.jogoDeXadrez.pieces.Pawn
+br/com/jogoDeXadrez/pieces/King.java
+ br.com.jogoDeXadrez.pieces.King
+br/com/jogoDeXadrez/application/UI.java
+ br.com.jogoDeXadrez.application.UI
 br/com/jogoDeXadrez/chess/ChessMatch.java
  br.com.jogoDeXadrez.chess.ChessMatch
