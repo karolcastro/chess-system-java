@@ -24,11 +24,11 @@ br/com/jogoDeXadrez/pieces/Bishop.java
  br.com.jogoDeXadrez.pieces.Bishop
 br/com/jogoDeXadrez/pieces/Pawn.java
  br.com.jogoDeXadrez.pieces.Pawn
-br/com/jogoDeXadrez/application/Program.java
- br.com.jogoDeXadrez.application.Program
+br/com/jogoDeXadrez/chess/ChessMatch.java
+ br.com.jogoDeXadrez.chess.ChessMatch
 br/com/jogoDeXadrez/pieces/King.java
  br.com.jogoDeXadrez.pieces.King
 br/com/jogoDeXadrez/application/UI.java
  br.com.jogoDeXadrez.application.UI
-br/com/jogoDeXadrez/chess/ChessMatch.java
- br.com.jogoDeXadrez.chess.ChessMatch
+br/com/jogoDeXadrez/application/Program.java
+ br.com.jogoDeXadrez.application.Program
